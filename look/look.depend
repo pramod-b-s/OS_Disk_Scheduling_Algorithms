@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485949828 source:c:\users\pramod b.s\desktop\look\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
